@@ -1,2 +1,3 @@
-# java-ee-rest-swagger
-Java EE 7 REST Swagger project structure
+Java EE 7 project structure
+- Interceptors
+- Swagger
